@@ -1,0 +1,14 @@
+/* new css file */
+div.body {
+ position:relative;
+}
+div.events {
+ position:absolute;
+ top:0;
+ left:0;
+}
+div.stats {
+ position:absolute;
+ top:0;
+ right:0;
+}

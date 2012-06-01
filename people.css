@@ -1,0 +1,28 @@
+
+
+div.personName {
+  font-size:200%;
+}
+
+div.mapLink {
+ position:absolute;
+ top:0;
+ right:0;
+}
+
+div.personTimelineFamilytreeBody {
+ position:relative;
+}
+div.personTimeline {
+ position:absolute;
+ top:0;
+ left:0;
+}
+div.personFamilytree {
+ position:absolute;
+ top:0;
+ right:0;
+}
+
+
+
